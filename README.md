@@ -1,10 +1,10 @@
 <h1 align="left">🙋‍♂️ Hello 🙋‍♂️<br>I am Lendon Bracewell.<br>I am full stack blockchain developer and web2, web3 developer and web designer. 💻💻💻<br>I have over 7 years of development experience and have done a lot of work. 👨‍💻👨‍💻👨‍💻</h1>
 
-###
+
 <div align="center">
 <a  href="https://ibb.co/ckbBDLb"><img src="https://i.ibb.co/k537Q13/Profile-Logo.png" alt="Profile-Logo" border="0"></a>
 </div>
-###
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="adobeillustrator logo"  />
