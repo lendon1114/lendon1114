@@ -94,6 +94,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lendon1114/lendon1114/output/snake.svg" alt="Snake animation" />
-
 ###
